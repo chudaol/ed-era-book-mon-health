@@ -49,8 +49,6 @@
 </tbody>
 </table>
 
-<center>Виконання проекту: «Прагнемо бути здоровими!» (за рахунок резервних годин).</center>
-
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>
