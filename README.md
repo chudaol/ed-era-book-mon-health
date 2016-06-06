@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Основи здоров'я (Спеціалізовані НЗ)
+# Основи здоров'я
 
 <hr>
 
