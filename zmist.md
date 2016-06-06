@@ -3,7 +3,7 @@
 # Зміст програми
 
 <ul class="nav nav-tabs">
-<li class="active"><a data-toggle="tab" href="#home">3 клас</a></li>
+<li class="active"><a data-toggle="tab" href="#home">1 клас</a></li>
 <li><a data-toggle="tab" href="#menu1">2 клас</a></li>
 <li><a data-toggle="tab" href="#menu2">3 клас</a></li>
 <li><a data-toggle="tab" href="#menu3">4 клас</a></li>
